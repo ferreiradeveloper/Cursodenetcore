@@ -6,6 +6,7 @@ namespace Curso_de_net_core
     {
         static void Main(string[] args)
         {
+            int year = 10;
             Console.WriteLine("Hello World FerreiraDEv!");
 
             Console.ReadLine();
